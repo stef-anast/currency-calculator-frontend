@@ -2,6 +2,8 @@
 
 This project is a Vue.js application that serves as the frontend for a currency calculator. It is built with Vite, Vuetify, and Pinia, providing a modern and reactive user experience.
 
+> **Note:** This project is the successor to the original [Currency Calculator Frontend](https://github.com/stefanast/currency-calculator-frontend).
+
 ## Live Demo
 
 🚀 **The application is deployed and available at:** [https://currency-calculator-frontend-six.vercel.app/](https://currency-calculator-frontend-six.vercel.app/)
